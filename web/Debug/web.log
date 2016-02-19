@@ -1,0 +1,14 @@
+﻿  browser.cpp
+c:\users\issuemine\desktop\ibk wevb\web5\web3\web\browser.cpp(452): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const WCHAR *'입니다.
+  c:\users\issuemine\desktop\ibk wevb\web5\web3\web\browser.cpp(452): note: 서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\issuemine\desktop\ibk wevb\web5\web3\web\browser.cpp(452): note: 서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+  c:\users\issuemine\desktop\ibk wevb\web5\web3\web\browser.cpp(452): note: 서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\issuemine\desktop\ibk wevb\web5\web3\web\browser.cpp(452): note: 서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+c:\users\issuemine\desktop\ibk wevb\web5\web3\web\browser.cpp(455): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const WCHAR *'입니다.
+  c:\users\issuemine\desktop\ibk wevb\web5\web3\web\browser.cpp(455): note: 서식 문자열에서 '%ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\issuemine\desktop\ibk wevb\web5\web3\web\browser.cpp(455): note: 서식 문자열에서 '%lls'을(를) 사용하는 것이 좋습니다.
+  c:\users\issuemine\desktop\ibk wevb\web5\web3\web\browser.cpp(455): note: 서식 문자열에서 '%Ls'을(를) 사용하는 것이 좋습니다.
+  c:\users\issuemine\desktop\ibk wevb\web5\web3\web\browser.cpp(455): note: 서식 문자열에서 '%ws'을(를) 사용하는 것이 좋습니다.
+c:\users\issuemine\desktop\ibk wevb\web5\web3\web\browser.cpp(795): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\issuemine\desktop\ibk wevb\web5\web3\web\browser.cpp(982): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  web.vcxproj -> C:\Users\issuemine\Desktop\ibk wevb\web5\web3\Debug\web.exe
